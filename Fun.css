@@ -1,9 +1,12 @@
 p{
-
     <span style="color:red">Technoblade</span>
-    <!--color: gray;-->
-    <!--width: 500px;-->
-    <!--border: 1px solid black;-->
+    color: gray;
+    width: 500px;
+    border: 1px solid black;
+}
+
+h1{
+    color: blue;
 }
 
 button {
