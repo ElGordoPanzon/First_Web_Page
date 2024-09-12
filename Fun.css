@@ -1,12 +1,12 @@
-p{
-    <span style="color:red">Technoblade</span>
-    color: gray;
-    width: 500px;
-    border: 1px solid black;
-}
+/*p{*/
+/*    <span style="color:red">Technoblade</span>*/
+/*    color: gray;*/
+/*    width: 500px;*/
+/*    border: 1px solid black;*/
+/*}*/
 
 h1{
-    color: blue;
+    color: red;
 }
 
 button {
@@ -15,4 +15,13 @@ button {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
+}
+
+#schedule {
+    color: crimson;
+}
+
+.main-text {
+    color: darkviolet;
+    font-family: "Comic Sans MS";
 }
