@@ -25,3 +25,16 @@ button {
     color: darkviolet;
     font-family: "Comic Sans MS";
 }
+
+li:nth-child(even) {
+    color: blue;
+    background-color: lightgreen;
+}
+
+a:hover {
+    color: darkred;
+}
+
+button:hover {
+    color: forestgreen;
+}
