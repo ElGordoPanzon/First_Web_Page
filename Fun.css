@@ -38,3 +38,9 @@ a:hover {
 button:hover {
     color: forestgreen;
 }
+
+.test {
+    font-size: large;
+    color: maroon}
+
+#demo {color: blue}
